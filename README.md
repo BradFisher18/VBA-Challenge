@@ -17,7 +17,7 @@ By runnning this code, it will produce the following outputs:
 * each companies total stock volume for the year
 * In a seperate table, it will print the best and worst performing companies determined by percent yearly change, as well as the company with the greatest total stock volume.
 # Installation and Running Code
-To commence running this code, in your Microsoft Excel workbook ensure that the 'Developer' tab on the ribbon is selected and Macros is enabled. If they are not, refer to the links below for steps to do this. Select Visual Basic in the Developer tab. This will open a window where you can create a new Module in the workbook. Insert the code from this repository there, and then run the code!
+To commence running this code, in your Microsoft Excel workbook ensure that the 'Developer' tab on the ribbon is selected and Macros is enabled (if they are not, refer to the links below for steps to do this). Select Visual Basic in the Code section of the Developer tab. This will open a window where you can create a new Module in the workbook. Insert the code from this repository there, and then run the code!
 
 Steps to display Developer tab: (https://support.microsoft.com/en-us/office/show-the-developer-tab-e1192344-5e56-4d45-931b-e5fd9bea2d45)
 
