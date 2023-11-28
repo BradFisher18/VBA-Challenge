@@ -1,6 +1,6 @@
 # VBA-Challenge
 # Summary
-This code is targeted for analysts wanting to evaluate the performance of a company's stock value over time, and compare it to that of other companies. The code is written to be run using VBA, with the data inputs to be presented in a Microsoft Excel Spreadsheet. 
+This code is targeted for analysts wanting to evaluate the performance of a company's stock value over time, and compare it to that of other companies. The code is written to be run using VBA, with the data presented in a Microsoft Excel Workbook 
 # Inputs
 This code requires the following data to be inputted into the workbook prior to running it, split into a new worksheet for each year:
 * company ticker
