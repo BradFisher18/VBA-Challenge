@@ -56,10 +56,10 @@ For Each ws In Worksheets
             tickername = ws.Cells(i, 1).Value
             ws.Cells(tickersum, 9).Value = tickername
                        
-            'add up open amount
+            'open amount
             openamount = ws.Cells(strOpn, 3).Value
             
-            'add up close amount
+            'close amount
             closeamount = ws.Cells(i, 6).Value
             
             '__________________________________________
